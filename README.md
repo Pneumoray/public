@@ -38,19 +38,21 @@
 
 ## About
 
-- Visit our site, currently Live @ https://anbellouzi.github.io/web.io/
+- Visit our site, currently live @ https://www.pneumoray.tech/
 
 ## Features
-
-## Contributing
+- Machine Learning Model (91% accuracy)
+- Simple UI/UX
+- Django powered
 
 ## Authors
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/anbellouzi"><img src="https://avatars0.githubusercontent.com/u/12688642?v=4" alt="Anas Bellouzi" width="85px;"/><br><sub><b>Anas Bellouzi</b></td>
+    <td align="center"><a href="https://github.com/ketkiambekar"><img src="https://avatars3.githubusercontent.com/u/13922145?s=460&u=3a4da745c9ca723cdd32d364fd6086eb53ab2661&v=4" alt="Ketki Ambekar" width="85px;"/><br><sub><b>Ketki Ambekar</b></td>
     <td align="center"><a href="https://github.com/vladyslavnUA"><img src="https://avatars0.githubusercontent.com/u/37787869?v=4" alt="Vladyslav Nykoliuk" width="85px;"/><br><sub><b>Vladyslav Nykoliuk</b></td>
-    <td align="center"><a href="https://github.com/AbdullahNoori"><img src="https://avatars2.githubusercontent.com/u/51065314?v=4" alt="Abdullah Noori" width="85px;"/><br><sub><b>Abdullah Noori</b></td>
+    <td align="center"><a href="https://github.com/justbautista"><img src="https://avatars1.githubusercontent.com/u/65434552?s=460&v=4" alt="Justin Bautista" width="85px;"/><br><sub><b>Justin Bautista</b></td>
+      <td align="center"><a href="https://github.com/Nandan01"><img src="https://avatars1.githubusercontent.com/u/36855411?s=460&v=4" alt="Nandan Kaur" width="85px;"/><br><sub><b>Nandan Kaur</b></td>
   </tr>
 </table>
 
@@ -58,10 +60,7 @@
 
 Reach out to any of the developers (authors) for support of this project.
 
-## Donate
-
-<a href="https://www.buymeacoffee.com/web.io" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## License
 
-- Copyright © [Web.io 2020](https://anbellouzi.github.io/web.io/ "Web.io Live").
+- Copyright © [Pneumoray 2020](https://www.pneumoray.tech/ "Pneumoray").
