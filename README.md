@@ -1,10 +1,10 @@
-# Web.io
+# Pneumoray
 <h1 align="center">
   <br>
-  <a href="https://anbellouzi.github.io/web.io/"><img src="https://cdn.filestackcontent.com/GyD60bydSW2n1W5YtB2b" alt="logo"></a>
+  <a href="https://www.pneumoray.tech/"><img src="https://pneumoray.s3.us-east-2.amazonaws.com/static/img/pneumoray-logo.png" alt="logo"></a>
 </h1>
 
-<h4 align="center">A website builder through voice-recognition.</h4>
+<h4 align="center">A machine learning model that successfully analyzes X-Rays for Pneumonia with 91% accuracy.</h4>
 
 <p align="center">
 
